@@ -1,2 +1,1 @@
-In this homework, we learned the basic features of the Git program and created a repository with the development branches of the site. First, we copied the repository to our station, after which we created several branches and finally uploaded our repository back to the Git
-Devops is a person who is responsible for the automation of development processes on a project, controls versions and networks.
+
